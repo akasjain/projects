@@ -1,0 +1,6 @@
+url-shortener/.mvn
+url-shortener/.git
+url-shortener/.idea
+url-shortener/target/*
+url-shortener/mvnw
+url-shortener/mvnw.cmd
